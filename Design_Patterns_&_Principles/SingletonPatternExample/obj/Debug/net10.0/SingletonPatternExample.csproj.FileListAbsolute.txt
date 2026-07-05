@@ -1,0 +1,14 @@
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.exe
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.deps.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.runtimeconfig.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.AssemblyInfoInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.AssemblyInfo.cs
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\SingletonPatternExample\obj\Debug\net10.0\refint\SingletonPatternExample.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.genruntimeconfig.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\SingletonPatternExample\obj\Debug\net10.0\ref\SingletonPatternExample.dll
