@@ -1,0 +1,15 @@
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.AssemblyInfoInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.AssemblyInfo.cs
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.sourcelink.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.exe
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.deps.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.runtimeconfig.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\FactoryMethodPattern\obj\Debug\net10.0\refint\FactoryMethodPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.genruntimeconfig.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\FactoryMethodPattern\obj\Debug\net10.0\ref\FactoryMethodPattern.dll
