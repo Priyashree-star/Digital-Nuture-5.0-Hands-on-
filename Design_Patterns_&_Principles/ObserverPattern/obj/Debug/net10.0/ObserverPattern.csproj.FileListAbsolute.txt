@@ -1,0 +1,15 @@
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\ObserverPattern\bin\Debug\net10.0\ObserverPattern.exe
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\ObserverPattern\bin\Debug\net10.0\ObserverPattern.deps.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\ObserverPattern\bin\Debug\net10.0\ObserverPattern.runtimeconfig.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\ObserverPattern\bin\Debug\net10.0\ObserverPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\ObserverPattern\bin\Debug\net10.0\ObserverPattern.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\ObserverPattern\obj\Debug\net10.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\ObserverPattern\obj\Debug\net10.0\ObserverPattern.AssemblyInfoInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\ObserverPattern\obj\Debug\net10.0\ObserverPattern.AssemblyInfo.cs
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\ObserverPattern\obj\Debug\net10.0\ObserverPattern.csproj.CoreCompileInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\ObserverPattern\obj\Debug\net10.0\ObserverPattern.sourcelink.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\ObserverPattern\obj\Debug\net10.0\ObserverPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\ObserverPattern\obj\Debug\net10.0\refint\ObserverPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\ObserverPattern\obj\Debug\net10.0\ObserverPattern.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\ObserverPattern\obj\Debug\net10.0\ObserverPattern.genruntimeconfig.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\ObserverPattern\obj\Debug\net10.0\ref\ObserverPattern.dll

@@ -1,0 +1,15 @@
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DependencyInjection\bin\Debug\net10.0\DependencyPattern.exe
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DependencyInjection\bin\Debug\net10.0\DependencyPattern.deps.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DependencyInjection\bin\Debug\net10.0\DependencyPattern.runtimeconfig.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DependencyInjection\bin\Debug\net10.0\DependencyPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DependencyInjection\bin\Debug\net10.0\DependencyPattern.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DependencyInjection\obj\Debug\net10.0\DependencyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DependencyInjection\obj\Debug\net10.0\DependencyPattern.AssemblyInfoInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DependencyInjection\obj\Debug\net10.0\DependencyPattern.AssemblyInfo.cs
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DependencyInjection\obj\Debug\net10.0\DependencyPattern.csproj.CoreCompileInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DependencyInjection\obj\Debug\net10.0\DependencyPattern.sourcelink.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DependencyInjection\obj\Debug\net10.0\DependencyPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DependencyInjection\obj\Debug\net10.0\refint\DependencyPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DependencyInjection\obj\Debug\net10.0\DependencyPattern.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DependencyInjection\obj\Debug\net10.0\DependencyPattern.genruntimeconfig.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DependencyInjection\obj\Debug\net10.0\ref\DependencyPattern.dll

@@ -1,0 +1,15 @@
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\MVCPattern\bin\Debug\net10.0\MVCPattern.exe
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\MVCPattern\bin\Debug\net10.0\MVCPattern.deps.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\MVCPattern\bin\Debug\net10.0\MVCPattern.runtimeconfig.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\MVCPattern\bin\Debug\net10.0\MVCPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\MVCPattern\bin\Debug\net10.0\MVCPattern.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\MVCPattern\obj\Debug\net10.0\MVCPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\MVCPattern\obj\Debug\net10.0\MVCPattern.AssemblyInfoInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\MVCPattern\obj\Debug\net10.0\MVCPattern.AssemblyInfo.cs
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\MVCPattern\obj\Debug\net10.0\MVCPattern.csproj.CoreCompileInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\MVCPattern\obj\Debug\net10.0\MVCPattern.sourcelink.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\MVCPattern\obj\Debug\net10.0\MVCPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\MVCPattern\obj\Debug\net10.0\refint\MVCPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\MVCPattern\obj\Debug\net10.0\MVCPattern.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\MVCPattern\obj\Debug\net10.0\MVCPattern.genruntimeconfig.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\MVCPattern\obj\Debug\net10.0\ref\MVCPattern.dll

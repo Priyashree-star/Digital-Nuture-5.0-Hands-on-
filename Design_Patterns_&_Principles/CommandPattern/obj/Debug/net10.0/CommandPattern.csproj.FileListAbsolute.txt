@@ -1,0 +1,15 @@
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\CommandPattern\bin\Debug\net10.0\CommandPattern.exe
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\CommandPattern\bin\Debug\net10.0\CommandPattern.deps.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\CommandPattern\bin\Debug\net10.0\CommandPattern.runtimeconfig.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\CommandPattern\bin\Debug\net10.0\CommandPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\CommandPattern\bin\Debug\net10.0\CommandPattern.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\CommandPattern\obj\Debug\net10.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\CommandPattern\obj\Debug\net10.0\CommandPattern.AssemblyInfoInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\CommandPattern\obj\Debug\net10.0\CommandPattern.AssemblyInfo.cs
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\CommandPattern\obj\Debug\net10.0\CommandPattern.csproj.CoreCompileInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\CommandPattern\obj\Debug\net10.0\CommandPattern.sourcelink.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\CommandPattern\obj\Debug\net10.0\CommandPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\CommandPattern\obj\Debug\net10.0\refint\CommandPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\CommandPattern\obj\Debug\net10.0\CommandPattern.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\CommandPattern\obj\Debug\net10.0\CommandPattern.genruntimeconfig.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\CommandPattern\obj\Debug\net10.0\ref\CommandPattern.dll

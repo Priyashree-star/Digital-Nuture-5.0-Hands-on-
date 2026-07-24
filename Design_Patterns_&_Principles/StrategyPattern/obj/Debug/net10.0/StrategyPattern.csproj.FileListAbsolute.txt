@@ -1,0 +1,15 @@
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\StrategyPattern\bin\Debug\net10.0\StrategyPattern.exe
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\StrategyPattern\bin\Debug\net10.0\StrategyPattern.deps.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\StrategyPattern\bin\Debug\net10.0\StrategyPattern.runtimeconfig.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\StrategyPattern\bin\Debug\net10.0\StrategyPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\StrategyPattern\bin\Debug\net10.0\StrategyPattern.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\StrategyPattern\obj\Debug\net10.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\StrategyPattern\obj\Debug\net10.0\StrategyPattern.AssemblyInfoInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\StrategyPattern\obj\Debug\net10.0\StrategyPattern.AssemblyInfo.cs
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\StrategyPattern\obj\Debug\net10.0\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\StrategyPattern\obj\Debug\net10.0\StrategyPattern.sourcelink.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\StrategyPattern\obj\Debug\net10.0\StrategyPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\StrategyPattern\obj\Debug\net10.0\refint\StrategyPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\StrategyPattern\obj\Debug\net10.0\StrategyPattern.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\StrategyPattern\obj\Debug\net10.0\StrategyPattern.genruntimeconfig.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\StrategyPattern\obj\Debug\net10.0\ref\StrategyPattern.dll
