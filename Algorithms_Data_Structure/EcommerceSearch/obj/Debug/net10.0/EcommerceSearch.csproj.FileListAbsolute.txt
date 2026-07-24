@@ -1,0 +1,15 @@
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\EcommerceSearch\bin\Debug\net10.0\EcommerceSearch.exe
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\EcommerceSearch\bin\Debug\net10.0\EcommerceSearch.deps.json
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\EcommerceSearch\bin\Debug\net10.0\EcommerceSearch.runtimeconfig.json
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\EcommerceSearch\bin\Debug\net10.0\EcommerceSearch.dll
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\EcommerceSearch\bin\Debug\net10.0\EcommerceSearch.pdb
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\EcommerceSearch\obj\Debug\net10.0\EcommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\EcommerceSearch\obj\Debug\net10.0\EcommerceSearch.AssemblyInfoInputs.cache
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\EcommerceSearch\obj\Debug\net10.0\EcommerceSearch.AssemblyInfo.cs
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\EcommerceSearch\obj\Debug\net10.0\EcommerceSearch.csproj.CoreCompileInputs.cache
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\EcommerceSearch\obj\Debug\net10.0\EcommerceSearch.sourcelink.json
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\EcommerceSearch\obj\Debug\net10.0\EcommerceSearch.dll
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\EcommerceSearch\obj\Debug\net10.0\refint\EcommerceSearch.dll
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\EcommerceSearch\obj\Debug\net10.0\EcommerceSearch.pdb
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\EcommerceSearch\obj\Debug\net10.0\EcommerceSearch.genruntimeconfig.cache
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\EcommerceSearch\obj\Debug\net10.0\ref\EcommerceSearch.dll

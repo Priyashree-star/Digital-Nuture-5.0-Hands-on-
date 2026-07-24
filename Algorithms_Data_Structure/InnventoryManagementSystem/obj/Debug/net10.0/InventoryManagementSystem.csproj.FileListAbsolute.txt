@@ -1,0 +1,15 @@
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\InnventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.exe
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\InnventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.deps.json
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\InnventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.runtimeconfig.json
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\InnventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.dll
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\InnventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.pdb
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\InnventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\InnventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\InnventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.AssemblyInfo.cs
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\InnventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\InnventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.sourcelink.json
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\InnventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.dll
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\InnventoryManagementSystem\obj\Debug\net10.0\refint\InventoryManagementSystem.dll
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\InnventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.pdb
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\InnventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.genruntimeconfig.cache
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\InnventoryManagementSystem\obj\Debug\net10.0\ref\InventoryManagementSystem.dll

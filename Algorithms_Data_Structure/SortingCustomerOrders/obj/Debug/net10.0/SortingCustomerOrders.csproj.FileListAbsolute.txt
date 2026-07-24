@@ -1,0 +1,15 @@
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\SortingCustomerOrders\bin\Debug\net10.0\SortingCustomerOrders.exe
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\SortingCustomerOrders\bin\Debug\net10.0\SortingCustomerOrders.deps.json
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\SortingCustomerOrders\bin\Debug\net10.0\SortingCustomerOrders.runtimeconfig.json
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\SortingCustomerOrders\bin\Debug\net10.0\SortingCustomerOrders.dll
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\SortingCustomerOrders\bin\Debug\net10.0\SortingCustomerOrders.pdb
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.AssemblyInfoInputs.cache
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.AssemblyInfo.cs
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.csproj.CoreCompileInputs.cache
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.sourcelink.json
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.dll
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\SortingCustomerOrders\obj\Debug\net10.0\refint\SortingCustomerOrders.dll
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.pdb
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.genruntimeconfig.cache
+D:\Digital Nurture 5.0\Algorithms_Data_Structure\SortingCustomerOrders\obj\Debug\net10.0\ref\SortingCustomerOrders.dll
