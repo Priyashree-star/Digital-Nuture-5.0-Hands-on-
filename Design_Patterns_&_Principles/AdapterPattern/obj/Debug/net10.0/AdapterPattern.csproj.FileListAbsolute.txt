@@ -1,0 +1,15 @@
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\AdapterPattern\bin\Debug\net10.0\AdapterPattern.exe
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\AdapterPattern\bin\Debug\net10.0\AdapterPattern.deps.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\AdapterPattern\bin\Debug\net10.0\AdapterPattern.runtimeconfig.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\AdapterPattern\bin\Debug\net10.0\AdapterPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\AdapterPattern\bin\Debug\net10.0\AdapterPattern.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\AdapterPattern\obj\Debug\net10.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\AdapterPattern\obj\Debug\net10.0\AdapterPattern.AssemblyInfoInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\AdapterPattern\obj\Debug\net10.0\AdapterPattern.AssemblyInfo.cs
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\AdapterPattern\obj\Debug\net10.0\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\AdapterPattern\obj\Debug\net10.0\AdapterPattern.sourcelink.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\AdapterPattern\obj\Debug\net10.0\AdapterPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\AdapterPattern\obj\Debug\net10.0\refint\AdapterPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\AdapterPattern\obj\Debug\net10.0\AdapterPattern.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\AdapterPattern\obj\Debug\net10.0\AdapterPattern.genruntimeconfig.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\AdapterPattern\obj\Debug\net10.0\ref\AdapterPattern.dll

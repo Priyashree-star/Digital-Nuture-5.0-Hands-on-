@@ -1,0 +1,15 @@
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DecoratorPattern\bin\Debug\net10.0\DecoratorPattern.exe
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DecoratorPattern\bin\Debug\net10.0\DecoratorPattern.deps.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DecoratorPattern\bin\Debug\net10.0\DecoratorPattern.runtimeconfig.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DecoratorPattern\bin\Debug\net10.0\DecoratorPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DecoratorPattern\bin\Debug\net10.0\DecoratorPattern.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DecoratorPattern\obj\Debug\net10.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DecoratorPattern\obj\Debug\net10.0\DecoratorPattern.AssemblyInfoInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DecoratorPattern\obj\Debug\net10.0\DecoratorPattern.AssemblyInfo.cs
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DecoratorPattern\obj\Debug\net10.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DecoratorPattern\obj\Debug\net10.0\DecoratorPattern.sourcelink.json
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DecoratorPattern\obj\Debug\net10.0\DecoratorPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DecoratorPattern\obj\Debug\net10.0\refint\DecoratorPattern.dll
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DecoratorPattern\obj\Debug\net10.0\DecoratorPattern.pdb
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DecoratorPattern\obj\Debug\net10.0\DecoratorPattern.genruntimeconfig.cache
+D:\Digital Nurture 5.0\Design_Patterns_&_Principles\DecoratorPattern\obj\Debug\net10.0\ref\DecoratorPattern.dll
